@@ -1,3 +1,4 @@
+![2025-06-21-204902_1015x545_scrot](https://github.com/user-attachments/assets/4f38f3cd-e1e1-468a-a4e7-87b04eb9db79)
 # AUTOMATED-REPORT-GENERATOR
 
 COMPANY: CODTECH IT SOLUTIONS
